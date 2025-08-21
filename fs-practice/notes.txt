@@ -1,0 +1,2 @@
+I overwrote this text using fs.writeFile (asynchronous)
+I appended this text using fs.writeFile (asynchronous)
